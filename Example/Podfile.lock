@@ -1,0 +1,23 @@
+PODS:
+  - CKCountdownButton (0.3.0)
+  - Expecta (0.3.1)
+  - OCMock (3.1.1)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - CKCountdownButton (from `../`)
+  - Expecta
+  - OCMock (~> 3.1.1)
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  CKCountdownButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CKCountdownButton: 0cc7f6f4c2ca6f3144ccd60a4ac7d65c46e8c833
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  OCMock: f6cb8c162ab9d5620dddf411282c7b2c0ee78854
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.34.4
